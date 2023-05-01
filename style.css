@@ -1,0 +1,130 @@
+.nav{
+    display: flex;
+    flex-direction: row;
+    margin-left: 30%;
+}
+.nav li {
+    display: inline-block;
+    list-style-type: none;
+    padding: 19px 19px;
+    text-align: center;
+}
+#purple{
+   width: 100%; 
+   
+}
+
+.sofa{
+    position: relative;
+    text-align: center;
+    
+}
+.get10text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 200%;
+    margin-left: -29%;
+    padding-top: 60px;
+    color:white;
+}
+.buttonget{
+    width: 200px;
+    padding: 15px;
+    background-color: rgb(241, 113, 188);
+    color: white;
+}
+
+#athletic{
+    width: 100%;
+}
+#two{
+    width: 98%;
+}
+
+
+.flexdress{
+    display:flex;
+    padding: 20px;
+    
+}
+.flexdress img{
+width: 50%;
+}
+#pic4{
+    width: 144%;
+}
+#pic3{
+    width: 97%;
+}
+#pic2{
+    width: 70%;
+}
+#pic1{
+    width: 56%;
+}
+.three{
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+
+}
+.fless{
+    display: flex;
+    
+}
+#woman{
+    width: 100%;
+}
+.para{
+    text-align: center;
+    font-family: Sans-serif;
+    margin-top: 90px;
+}
+.para p{
+    color: grey;
+}
+
+
+
+
+#email{
+    padding: 9px;
+    width: 270px;
+    margin-top: 15px;
+    
+    border:solid  gainsboro; 
+}
+
+.allprod{
+    padding: 15px;
+    width: 200px;
+    margin-top: 15px;
+    color: white;
+    background-color: #ca1b96;
+    border: transparent;  
+    margin-left: 40%;
+    margin-top:  30px;
+    margin-bottom: 60px;
+}
+#btn{
+    padding: 15px;
+    width: 200px;
+    margin-top: 15px;
+    color: white;
+    background-color: #ca1b96;
+    border: transparent;
+
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30px;
+    margin-top: 90px;
+    margin-bottom: 20px;
+}
